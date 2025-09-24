@@ -78,5 +78,5 @@ LinkedIn: Your LinkedIn Profile
 GitHub: Your GitHub Profile
 
 
-Do you also want me to **create the `requirements.txt` file** for this project (so anyone can run your notebook easily)?
+
 
